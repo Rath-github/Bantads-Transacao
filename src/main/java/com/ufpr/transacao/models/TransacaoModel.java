@@ -1,7 +1,8 @@
 package com.ufpr.transacao.models;
 
 import jakarta.persistence.*;
-import lombok.Date;
+import lombok.Data;
+
 import org.hibernate.annotations.GenericGenerator;
 
 import java.io.Serial;
